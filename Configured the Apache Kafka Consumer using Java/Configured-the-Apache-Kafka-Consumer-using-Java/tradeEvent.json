@@ -1,0 +1,9 @@
+{
+  "trade_id":"1",
+  "data": {
+    "EB": "knoldus_EB",
+    "PB": "knoldus_PB",
+    "quantity": "340",
+    "direction": "Buy"
+  }
+}
